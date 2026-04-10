@@ -1,0 +1,21 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "env": {
+    "SHOPIFY_STORE_DOMAIN": {
+      "description": "Your Shopify store domain (e.g., j6rnun-fy.myshopify.com)"
+    },
+    "SHOPIFY_ACCESS_TOKEN": {
+      "description": "Shopify Admin API access token (shpat_...)"
+    },
+    "SHOPIFY_API_KEY": {
+      "description": "Shopify app API key"
+    },
+    "SHOPIFY_API_SECRET": {
+      "description": "Shopify app API secret"
+    }
+  }
+}
