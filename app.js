@@ -145,7 +145,7 @@ const PRODUCTS = [
     badge: 'Premium',
     rating: 4.9,
     reviews: 65,
-    desc: 'A stunning full-height faux olive tree complete with lifelike tiny olives and a twisted natural-wood trunk. The ultimate Mediterrannean accent piece.',
+    desc: 'A stunning full-height faux olive tree complete with lifelike tiny olives and a twisted natural-wood trunk. The ultimate Mediterranean accent piece.',
     height: '180 cm',
     material: 'PE Leaves, Natural Wood Trunk',
     potIncluded: 'Yes (terracotta-look)',
